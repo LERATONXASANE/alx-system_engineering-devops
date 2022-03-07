@@ -1,2 +1,2 @@
 #!/bin/bash
-cat "\"(Öo)'"
+echo "\"(Öo)'" >> file1 | less file1
