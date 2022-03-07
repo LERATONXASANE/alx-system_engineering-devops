@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Öo)'" >> file1 | less file1
+echo "\"(Öo)'" >> 1-confused_smiley
