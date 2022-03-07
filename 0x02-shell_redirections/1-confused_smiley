@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Öo)'" >> 1-confused_smiley
+echo "\"(Öo)'" | less
